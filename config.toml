@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://liubin.name"
 languageCode = "en"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "壁上同年-与影为友形若痴人"
