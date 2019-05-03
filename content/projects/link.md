@@ -50,6 +50,7 @@ author: "冯柳宾"
 * [Manchester NMR Methodology](http://nmr.chemistry.manchester.ac.uk) work on DOSY, MAD, implementing homonuclear decoupling / pure shift methods, automated shimming methods, ..
 * [Structure and Dynamics of Biomolecules](http://www.paris-en-resonance.fr/index.php) developments of new methods for NMR in solution, solid and gases, and for MRI using state-of-the-art equipment.
 * [SeRMN](http://sermn.uab.cat/)is the Scientific-Technical Research Support Service encompassing the building, amenities, research equipment, and economic, personnel and management resources aimed at obtaining nmr spectra and images from liquid, semi-solid, solid and live samples. 
+* [Lorieau](http://www.lorieau.com/) has the solution-and solid-state NMR, computational tools and other biophysical methods. Some usefull [posts](http://www.lorieau.com/posts/), and [mollib](https://mollib.readthedocs.io/en/latest/) is a unified command-line program and Python library for validation, quality analysis and manipulation of molecular structures with an emphasis on biophysical analysis.
 
 ### 理念性网站
 * [SCI-HUB](http://sci-hub.tw) 提倡“平等知识分享权”，打破文献版权壁垒。
