@@ -2,7 +2,7 @@
 title: "2019年开春"
 date: 2019-01-18T09:48:41+08:00
 lastmod: 2019-01-18T09:48:41+08:00
-draft: true
+draft: false
 description: "博文第一篇"
 tags: [厦门,人生]
 categories: [情感]

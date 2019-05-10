@@ -2,7 +2,7 @@
 title: "蛋白二级结构和NOE模式"
 date: 2019-04-13T14:08:15+08:00
 lastmod: 2019-04-13T14:08:15+08:00
-draft: true
+draft: false
 keywords: ["NOE", "Secondary Strucuture"]
 description: "蛋白二级结构中的NOE信号模式"
 tags: ["NMR"]

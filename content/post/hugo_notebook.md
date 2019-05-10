@@ -2,7 +2,7 @@
 title: "Hugo学习日记"
 date: 2019-01-18T14:03:23+08:00
 lastmod: 2019-04-13T14:39:23+08:00
-draft: true
+draft: false
 keywords: [Hugo, notebook]
 description: "Hugo学习日记"
 tags: [Hugo]
