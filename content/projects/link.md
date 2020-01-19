@@ -21,6 +21,7 @@ author: "冯柳宾"
 * [glycosciences](http://www.glycosciences.de) 糖科学，包含多糖结构、核磁和质谱数据库
 * [carbohydrates](https://www.hsls.pitt.edu/obrc/index.php?page=carbohydrates) 包含许多糖科学的相关网站
 * [LCS](http://eos.univ-reims.fr/LSD/index_ENG.html) Logic for Structure Determination
+* [nmrlab](http://chem.ch.huji.ac.il/nmr/) 
 
 ### Home-build NMR
 * [opencore NMR2](http://kuchem.kyoto-u.ac.jp/bun/indiv/takezo/opencorenmr2/index.html) Home-make NMR Spectrometer

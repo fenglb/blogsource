@@ -127,3 +127,7 @@ TTS 或者 (*文字转语音*) 把文字转换为音频输出.
 Leon 有多个 TTS synthesizers; 你可以在[configure](https://github.com/leon-ai/leon/configuration.md#voice)设置.
 
 > Attachment: [server/src/tts/tts.js](https://github.com/leon-ai/leon/blob/develop/server/src/tts/tts.js) *Leon's TTS*.
+
+### HOME ASSISTANT
+
+Home Assistant 是一个运行在 Python 3上的开源家庭自动化平台, 跟踪和控制所有设备在家里和自动化控制。
